@@ -9,3 +9,5 @@
 <p>先完成在给结论</p>
 <p>指定完成任务步骤</p>
 <h1>limitation:无法察觉一些逻辑错误</h1>
+<h1>自我尝试</h1>
+[image](https://github.com/Hwantier/GPTPromptLearn/assets/130560804/df702069-7ab2-4c12-9bb7-dd04773b2cad)
